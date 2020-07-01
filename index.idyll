@@ -53,7 +53,9 @@ idyll, run the command `idyll` inside of this directory.
 
       [div]
         Content 3
-      [/div]  [/Step]
+      [/div]
+
+    [/Step]
 
   [Step]
 
@@ -67,6 +69,8 @@ idyll, run the command `idyll` inside of this directory.
 
       [div]
         Content 3
-      [/div]  [/Step]
+      [/div]
+
+    [/Step]
 
 [/Scroller]
