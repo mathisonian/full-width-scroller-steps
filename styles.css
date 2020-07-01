@@ -1,0 +1,16 @@
+
+.idyll-scroll-text .idyll-step  {
+  display: flex;
+  flex-direction: row;
+  background: none;
+  border: none;
+  justify-content: space-around;
+  box-shadow: none;
+}
+
+
+.idyll-step >  div {
+  background: white;
+  border: solid 1px black;
+  padding: 50px;
+}
